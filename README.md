@@ -1,7 +1,28 @@
-💻 Computer Engineering student | 🧠 AI · 🕵️‍♂️ Cybersecurity · 🤖 Automation
+👋 Hi, I'm @aran-root (Alejandro Hernández)
 
-Hi! I'm Alejandro (aka @aran-root). I build stealth automation systems, deep learning tools, and Java-based desktop apps. I love projects that mix creativity with technical depth—whether it's simulating human behavior in a browser, segmenting medical images, or analyzing real-world networks.
+💻 Final-year Computer Engineering student at the Autonomous University of Madrid (UAM).
+📍 Recently back from an Erasmus year in Finland, where I worked on AI, automation, and social network analysis.
 
-Currently finishing my Erasmus in Finland, working on applied AI, automation, and cybersecurity. I publish selected projects here with clean code and clear documentation. Let's build smart things.
+I build systems that automate, simulate, and adapt — from stealth automation scripts and AI models to desktop applications and network analysis.
 
-📍 Java · Python · Gephi · Playwright · U-Net · Git
+🚀 Selected Projects
+
+🕵️ Stealth Browser AutomationPlaywright + Tor + fingerprint evasion + human simulation
+
+🧠 Liver Segmentation with U-NetDeep learning on CT scans (PyTorch)
+
+📊 Academic Network AnalysisGraph cleaning, centrality metrics, and Gephi visualizations
+
+🏋️ GymApp (JavaFX)Personalized workout manager with PDF export
+
+(More coming soon: C projects, low-level systems, and network simulations)
+
+🧠 Skills & Technologies
+
+Java · Python · JavaFX · PyTorch · Playwright · Tor · Gephi · GitC · Assembly · Operating Systems · Computer Networks
+
+🎯 My Goal Here
+
+To showcase real, original projects — not just school exercises — that reflect how I think, build, and learn. Always improving, always exploring.
+
+Feel free to explore, fork, or reach out.
